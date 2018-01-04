@@ -1,23 +1,22 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "Wayne",
+  "name": "Wayne Lin",
   "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
+    "https://github.com/wayne1025"
   ],
   "background":[
-    "A graduate student from NTUT Interaction Design Dept",
+    "A graduate student from PCCU Information Communication Dept",
     "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
+    "Javascript 1.5 year",
+    "HTML 3 years",
+    "CSS 3 years",
+    "SASS 6 months",
+    "GOlang 2 months"
   ],
   "interests":[
+    "Blockchain",
     "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
+    "Remote work and learn"
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "github": "http://github.com/wayne1025"
 }
